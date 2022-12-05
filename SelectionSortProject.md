@@ -13,7 +13,7 @@
 </ul>
 <strong>4 = [7,3,5,8,2,9,4,15,6] dizisinin Selection Sort'a göre ilk 4 adımını yazınız.</strong>
 
-<h2>Answer</h2>
+<h2>Cevap</h2>
 <strong>1 =</strong>
 <ul>
   <li>[2,27,16,22,18,6] -> 2 dizinin küçük sayısıdır, en başa alabilmek için 22 ile yer değiştirir.</li>
