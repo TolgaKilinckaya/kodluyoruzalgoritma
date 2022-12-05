@@ -35,7 +35,7 @@
 <p>Big-O Notation'da kat sayı önemsizdir; yani domine eden fonksiyon<strong> n² </strong>alınır.</p>
 <p><strong>Big-O değeri = O(n²)</strong></p>
 <strong>3 = Aradığımız sayı 18 dizinin ortasında olduğu için bu avarage case kapsamına girer.</strong>
-<strong>4 =</strong> 
+<p><strong>4 =</strong><p> 
 <ol>
   <li>[2|3,5,8,7,9,4,15,6]</li>
   <li>[2,3|5,8,7,9,4,15,6] 3</li>
